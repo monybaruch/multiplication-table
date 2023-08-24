@@ -1,0 +1,12 @@
+table,
+th,
+td {
+  border: 2px solid crimson;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  width: 50px;
+  font-size: 1.5rem;
+}
